@@ -1,8 +1,8 @@
 <?php 
  /**
- * Plugin Name: GTM Purchase for WooCommerce Thank You
+ * Plugin Name: GTM Purchase Event for WC Thank You Page
  * Plugin URI: https://leocoder.com
- * Description: GTM purchase event fix for WooCommerce custom thank you page.
+ * Description: Restore missing GTM purchase event for WooCommerce thank you page.
  * Version: 1.0.0
  * Requires at least: 5.0
  * Requires PHP: 7.4

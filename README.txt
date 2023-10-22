@@ -1,4 +1,4 @@
-=== GTM Purchase for WooCommerce Thank You Page - Fix for GTM purchase event for WooCommerce. ===
+=== GTM Purchase for WC Thank You Page - Restore Missing GTM Purcase Event. ===
 Contributors: webhasan
 Tags: adwords, google tag manager, gtm datalayer, purchase evnet, woocommerce purchase, woocomerce thankyou page
 Requires at least: 5.0
