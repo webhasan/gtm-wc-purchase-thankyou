@@ -1,0 +1,17 @@
+#wc-purchase-datalayer-settings .form-table {
+    background-color: #fff;
+    margin-top: 30px;
+}
+
+#wc-purchase-datalayer-settings .form-table tr {
+    border-bottom: 1px solid #eee;
+}
+
+#wc-purchase-datalayer-settings .form-table tr th {
+    padding: 40px 10px 40px 20px;
+}
+
+#wc-purchase-datalayer-settings .form-table tr td {
+    padding: 40px 10px;
+    position: relative;
+}
