@@ -53,12 +53,6 @@ If you are unable to install the plugin from your WordPress dashboard you can in
 After successfully installing the plugin in your WordPress dashboard, you'll discover a 'GTM Purchase' settings page. If your thank-you page does not contain a query parameter like 'order_id,' then you have to input the thank-you page link. Additionally, there are two more options you can use as needed.
 
 == Screenshots ==
-1. Product Recommendations Preview
-2. Ajax Add To Cart
-3. Flexible Popup Heading
-4. Selection Panel
-5. Settings Panel
-6. Popup Layouts
 
 == Changelog ==
 = 1.0 =
